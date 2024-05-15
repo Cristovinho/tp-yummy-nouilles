@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;600&display=swap");
 
 /* Pages */
-@import "/pages/home.css";
+@import "/styles/pages/home.css";
 
 /* Modules */
-@import "/modules/appBar.css";
-@import "/modules/cta.css";
-@import "/modules/redBanner.css";
-@import "/modules/contactInfo.css";
-@import "/modules/footer.css";
+@import "/styles/modules/appBar.css";
+@import "/styles/modules/cta.css";
+@import "/styles/modules/redBanner.css";
+@import "/styles/modules/contactInfo.css";
+@import "/styles/modules/footer.css";
 /* Design System */
 :root {
   /* Colors */
